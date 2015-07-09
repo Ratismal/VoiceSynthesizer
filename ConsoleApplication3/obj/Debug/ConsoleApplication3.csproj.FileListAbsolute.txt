@@ -1,0 +1,6 @@
+C:\Users\Other\Dropbox\Workspace - C#\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Other\Dropbox\Workspace - C#\ConsoleApplication3\ConsoleApplication3\bin\Debug\VoiceSynthesizer.exe.config
+C:\Users\Other\Dropbox\Workspace - C#\ConsoleApplication3\ConsoleApplication3\bin\Debug\VoiceSynthesizer.exe
+C:\Users\Other\Dropbox\Workspace - C#\ConsoleApplication3\ConsoleApplication3\bin\Debug\VoiceSynthesizer.pdb
+C:\Users\Other\Dropbox\Workspace - C#\ConsoleApplication3\ConsoleApplication3\obj\Debug\VoiceSynthesizer.exe
+C:\Users\Other\Dropbox\Workspace - C#\ConsoleApplication3\ConsoleApplication3\obj\Debug\VoiceSynthesizer.pdb
